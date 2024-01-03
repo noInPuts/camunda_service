@@ -11,6 +11,6 @@ server:
 
 spring:
   rabbitmq:
-    host: 167.71.45.53
-    username: ${RABBITMQ_USERNAME}
-    password: ${RABBITMQ_PASSWORD}
+    host: localhost
+    username: guest
+    password: guest
